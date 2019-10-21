@@ -1,4 +1,48 @@
+
+
+
+
+
+
 .formstyle{
-  Width:30%;
+  margin-bottom:10%;
+  Width:40%;
   margin: 0 auto;
+  background-color: "white";
+  border: 1px solid black;
+
+}
+
+.inputStyle{
+  width:50%;
+  font-size:1.5rem;
+  margin-top: 1em;
+  border: dotted 1px black;
+  text-align:center;
+}
+
+
+.formStyle{
+  
+    text-align:center;
+    margin-top:2rem;
+
+}
+
+.selectStyle{
+  
+    width:50%;
+    font-size:1.5rem;
+
+}
+
+.buttonSubmit{
+  color:white;
+  border: none;
+  background: black;
+  border-radius:40%;
+  font-size:2rem;
+  margin-top:1rem;
+  
+
 }
